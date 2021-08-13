@@ -1,0 +1,7 @@
+export const IMAGE_REQUEST = 'IMAGE_REQUEST'
+export const IMAGE_SUCCESS = 'IMAGE_SUCCESS'
+export const IMAGE_FAILURE = 'IMAGE_FAILURE'
+export const IMAGE_DELETE = 'IMAGE_DELETE'
+export const CHANGE_PAGE = 'CHANGE_PAGE'
+
+export const IMAGE_START = 'IMAGE_START'
